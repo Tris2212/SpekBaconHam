@@ -1,0 +1,16 @@
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\bin\Debug\SpekBaconHam.exe.config
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\bin\Debug\SpekBaconHam.exe
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\bin\Debug\SpekBaconHam.pdb
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.Form1.resources
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.Properties.Resources.resources
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.csproj.GenerateResource.cache
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.csproj.CoreCompileInputs.cache
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.exe
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.pdb
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.UserControl1.resources
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.UserControl2.resources
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.csprojAssemblyReference.cache
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\bin\Debug\SpekBaconHam.exe.manifest
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\bin\Debug\SpekBaconHam.application
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.exe.manifest
+C:\Users\offer\source\repos\SpekBaconHam\SpekBaconHam\obj\Debug\SpekBaconHam.application
